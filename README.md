@@ -7,10 +7,6 @@
 <p align="center">
 :wrench: Test and experiment with prompts, LLMs, and vector databases for Project Strait. :hammer:
 <p align="center">
-  <a href="https://github.com/LoQIStar/Project-Strait-testing">
-      <img src="https://img.shields.io/github/stars/hegelai/prompttools" />
-  </a>
-  <a href="https://twitter.com/hegel_ai"><img src="https://img.shields.io/twitter/follow/Hegel_AI?style=social"></a>
 </p>
 
 
