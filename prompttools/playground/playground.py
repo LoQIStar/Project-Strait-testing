@@ -29,8 +29,8 @@ from prompttools.playground.data_loader import render_prompts, load_data, run_mu
 params = st.experimental_get_query_params()
 st.experimental_set_query_params()
 
-st.header("Project Strait Model Evaluator")
-st.write("Give us a \U00002B50 on [GitHub](https://github.com/hegelai/prompttools)")
+st.header("Project Strait: Model Evaluator")
+# st.write("Give us a \U00002B50 on [GitHub](https://github.com/hegelai/prompttools)")
 
 with st.sidebar:
     if "mode" not in st.session_state and "mode" in params:
