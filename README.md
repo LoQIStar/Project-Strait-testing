@@ -1,12 +1,8 @@
 <h1 align="center">
- <a href="https://hegel-ai.com">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/hegel_ai_logo_dark.svg">
-  <img height="70" src="img/hegel_ai_logo.svg">
  </picture>
  </a>
  <br>
- PromptTools
+ Strait
 </h1>
 <p align="center">
 :wrench: Test and experiment with prompts, LLMs, and vector databases for Project Strait. :hammer:
