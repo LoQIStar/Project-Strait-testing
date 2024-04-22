@@ -211,7 +211,7 @@ elif mode == "Prompt Template":
         instruction = st.text_area(
             "System Message",
             key="instruction",
-            value=params["instruction"][0] if "instruction" in params else "You are a helpful AI assistant.",
+            value=params["instruction"][0] if "instruction" in params else "You are a helpful psychiatrist, however never call yourself a psychiatrist when asked, but a coach. for evey question you are asked, ask a follow up questions in your response, to get more insights from your patient, give short answers to questions.",
         )
 
     placeholders = [[st.empty() for _ in range(instruction_count + variable_count)] for _ in range(prompt_count)]
