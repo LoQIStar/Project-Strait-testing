@@ -43,9 +43,7 @@ git clone https://github.com/hegelai/prompttools.git
 cd prompttools && jupyter notebook examples/notebooks/OpenAIChatExperiment.ipynb
 ```
 
-You can also run the notebook in [Google Colab](https://colab.research.google.com/drive/1YVcpBew8EqbhXFN8P5NaFrOIqc1FKWeS?usp=sharing)
-
-## Playground
+## Project Strait Testing Playground
 
 <p align="center">
   <img src="img/playground.gif" width="1000" height="500">
